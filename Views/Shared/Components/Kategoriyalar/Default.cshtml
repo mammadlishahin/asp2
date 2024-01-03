@@ -1,0 +1,8 @@
+@model List<Categori>
+
+<ul class="list-group">
+        <a href="/product/list/" class="list-group-item list-group-item-action @(ViewBag.RouteId==null?"active":"")">Tum kateqoriler</a>
+    @foreach(Categori KT in @Model){
+        <a asp-action="list" asp-controller="product" asp-route-id="@KT.CategoriId" class="list-group-item list-group-item-action @(ViewBag.RouteId==KT.CategoriId.ToString()?"active" :"")">@KT.Name</a>
+    }
+</ul>

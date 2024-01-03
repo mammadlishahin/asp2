@@ -1,0 +1,25 @@
+@model Product
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            @await Component.InvokeAsync("Kategoriyalar")
+        </div>
+
+        <div class="col-md-9">
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="~/img/@Model.ImgUrl" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Price: @Model.Price.ToString()</h5>
+                        <p class="card-text">@Model.Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum vel nulla itaque sed modi quis placeat reprehenderit quo officiis. Repellendus, quae qui! Repellendus nisi fuga tempora, iure sit laudantium ratione.</p>
+                        <p class="card-text"><small class="text-body-secondary">@Model.Name</small></p>
+                    </div>
+                    </div>
+                </div>
+                </div>
+        </div>
+    </div>
+</div>

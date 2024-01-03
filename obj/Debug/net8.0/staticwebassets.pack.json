@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\Logo\\nazi.png",
+      "PackagePath": "staticwebassets\\img\\Logo\\nazi.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung1.png",
+      "PackagePath": "staticwebassets\\img\\samsung1.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung10.png",
+      "PackagePath": "staticwebassets\\img\\samsung10.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung11.png",
+      "PackagePath": "staticwebassets\\img\\samsung11.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung12.png",
+      "PackagePath": "staticwebassets\\img\\samsung12.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung2.png",
+      "PackagePath": "staticwebassets\\img\\samsung2.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung3.png",
+      "PackagePath": "staticwebassets\\img\\samsung3.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung4.png",
+      "PackagePath": "staticwebassets\\img\\samsung4.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung5.png",
+      "PackagePath": "staticwebassets\\img\\samsung5.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung6.png",
+      "PackagePath": "staticwebassets\\img\\samsung6.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung7.png",
+      "PackagePath": "staticwebassets\\img\\samsung7.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung8.png",
+      "PackagePath": "staticwebassets\\img\\samsung8.png"
+    },
+    {
+      "Id": "C:\\webDEV\\Yeni\\wwwroot\\img\\samsung9.png",
+      "PackagePath": "staticwebassets\\img\\samsung9.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Yeni.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Yeni.props",
+      "PackagePath": "build\\Yeni.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Yeni.props",
+      "PackagePath": "buildMultiTargeting\\Yeni.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Yeni.props",
+      "PackagePath": "buildTransitive\\Yeni.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+@model Yeni.ViewModel.ProductViewModel
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            @await Component.InvokeAsync("Kategoriyalar")
+        </div>
+        <div class="col-md-9">
+            <div class="row">
+                @foreach(Product pr in @Model.Products){
+                    <div class="col-md-3">
+                @await Html.PartialAsync("_Card",pr)
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
