@@ -26,3 +26,4 @@ C:\webDEV\Yeni\obj\Debug\net8.0\refint\Yeni.dll
 C:\webDEV\Yeni\obj\Debug\net8.0\Yeni.pdb
 C:\webDEV\Yeni\obj\Debug\net8.0\Yeni.genruntimeconfig.cache
 C:\webDEV\Yeni\obj\Debug\net8.0\ref\Yeni.dll
+C:\webDEV\Yeni\obj\Debug\net8.0\Yeni.sourcelink.json
